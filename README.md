@@ -2,7 +2,7 @@
 
 I've gone to return some videotapes.
 
-![alt text](website/giphy (1).gif)
+![alt text](bale.gif)
 
 
 ## License
