@@ -6,5 +6,6 @@ categories: journal
 tags: [documentation,sample]
 image: bale.gif
 ---
+![alt text](bale.gif)
 
 I've gone to return some videotapes.
